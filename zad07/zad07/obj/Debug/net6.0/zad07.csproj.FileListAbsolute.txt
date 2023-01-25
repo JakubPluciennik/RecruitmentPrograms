@@ -1,0 +1,15 @@
+B:\Users\pluci\source\repos\zad07\zad07\bin\Debug\net6.0\zad07.exe
+B:\Users\pluci\source\repos\zad07\zad07\bin\Debug\net6.0\zad07.deps.json
+B:\Users\pluci\source\repos\zad07\zad07\bin\Debug\net6.0\zad07.runtimeconfig.json
+B:\Users\pluci\source\repos\zad07\zad07\bin\Debug\net6.0\zad07.dll
+B:\Users\pluci\source\repos\zad07\zad07\bin\Debug\net6.0\zad07.pdb
+B:\Users\pluci\source\repos\zad07\zad07\obj\Debug\net6.0\zad07.csproj.AssemblyReference.cache
+B:\Users\pluci\source\repos\zad07\zad07\obj\Debug\net6.0\zad07.GeneratedMSBuildEditorConfig.editorconfig
+B:\Users\pluci\source\repos\zad07\zad07\obj\Debug\net6.0\zad07.AssemblyInfoInputs.cache
+B:\Users\pluci\source\repos\zad07\zad07\obj\Debug\net6.0\zad07.AssemblyInfo.cs
+B:\Users\pluci\source\repos\zad07\zad07\obj\Debug\net6.0\zad07.csproj.CoreCompileInputs.cache
+B:\Users\pluci\source\repos\zad07\zad07\obj\Debug\net6.0\zad07.dll
+B:\Users\pluci\source\repos\zad07\zad07\obj\Debug\net6.0\refint\zad07.dll
+B:\Users\pluci\source\repos\zad07\zad07\obj\Debug\net6.0\zad07.pdb
+B:\Users\pluci\source\repos\zad07\zad07\obj\Debug\net6.0\zad07.genruntimeconfig.cache
+B:\Users\pluci\source\repos\zad07\zad07\obj\Debug\net6.0\ref\zad07.dll
